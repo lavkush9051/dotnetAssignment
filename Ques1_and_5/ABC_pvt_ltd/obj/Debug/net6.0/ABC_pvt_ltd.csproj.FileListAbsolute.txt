@@ -1,0 +1,15 @@
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.csproj.AssemblyReference.cache
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.AssemblyInfoInputs.cache
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.AssemblyInfo.cs
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.csproj.CoreCompileInputs.cache
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\bin\Debug\net6.0\ABC_pvt_ltd.exe
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\bin\Debug\net6.0\ABC_pvt_ltd.deps.json
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\bin\Debug\net6.0\ABC_pvt_ltd.runtimeconfig.json
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\bin\Debug\net6.0\ABC_pvt_ltd.dll
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\bin\Debug\net6.0\ABC_pvt_ltd.pdb
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.dll
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\refint\ABC_pvt_ltd.dll
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.pdb
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ABC_pvt_ltd.genruntimeconfig.cache
+D:\.NetTraining\CaseStudy\ABC_pvt_ltd\obj\Debug\net6.0\ref\ABC_pvt_ltd.dll

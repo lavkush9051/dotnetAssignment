@@ -1,0 +1,12 @@
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\bin\Debug\net6.0\Corporate_University.deps.json
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\bin\Debug\net6.0\Corporate_University.dll
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\bin\Debug\net6.0\Corporate_University.pdb
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\Corporate_University.csproj.AssemblyReference.cache
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\Corporate_University.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\Corporate_University.AssemblyInfoInputs.cache
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\Corporate_University.AssemblyInfo.cs
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\Corporate_University.csproj.CoreCompileInputs.cache
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\Corporate_University.dll
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\refint\Corporate_University.dll
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\Corporate_University.pdb
+D:\.NetTraining\Corporate_UniversitySol\Corporate_University\obj\Debug\net6.0\ref\Corporate_University.dll

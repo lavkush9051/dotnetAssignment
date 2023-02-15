@@ -1,0 +1,15 @@
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.csproj.AssemblyReference.cache
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.AssemblyInfoInputs.cache
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.AssemblyInfo.cs
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.csproj.CoreCompileInputs.cache
+D:\.NetTraining\CarAppsSol\CarApps\bin\Debug\net6.0-windows\CarApps.exe
+D:\.NetTraining\CarAppsSol\CarApps\bin\Debug\net6.0-windows\CarApps.deps.json
+D:\.NetTraining\CarAppsSol\CarApps\bin\Debug\net6.0-windows\CarApps.runtimeconfig.json
+D:\.NetTraining\CarAppsSol\CarApps\bin\Debug\net6.0-windows\CarApps.dll
+D:\.NetTraining\CarAppsSol\CarApps\bin\Debug\net6.0-windows\CarApps.pdb
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.dll
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\refint\CarApps.dll
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.pdb
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\CarApps.genruntimeconfig.cache
+D:\.NetTraining\CarAppsSol\CarApps\obj\Debug\net6.0-windows\ref\CarApps.dll
